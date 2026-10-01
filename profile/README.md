@@ -1,36 +1,68 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HimalayanNomads/drawa/main/web/public/favicon.svg" width="64" alt="">
-
 # Himalayan Nomads
 
-We build **[Drawa](https://github.com/HimalayanNomads/drawa)**: your coding agents, on a canvas.
+🔴 🟢 🔵
 
-**[drawa.cc](https://drawa.cc)**
+**Free and open-source software for developers, for productivity and for everyday use.**
+
+[Projects](#projects) · [Contributing](https://github.com/HimalayanNomads/.github/blob/main/CONTRIBUTING.md) · [Code of Conduct](https://github.com/HimalayanNomads/.github/blob/main/CODE_OF_CONDUCT.md) · [Security](https://github.com/HimalayanNomads/.github/blob/main/SECURITY.md)
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HimalayanNomads/drawa/main/docs/readme/hero-dark.png">
-  <img src="https://raw.githubusercontent.com/HimalayanNomads/drawa/main/docs/readme/hero-light.png" alt="The Drawa canvas: session cards, each wired to a window of the files its agent read, edited and wrote, with a diagram beside them">
-</picture>
+---
 
-Drawa runs Claude Code, OpenCode and Codex side by side in your browser, draws every file they read, edit and run as a live map, and lets you review each change without leaving the canvas. It's open source and runs on your machine.
+## About us
+
+Himalayan Nomads is a community that builds free and open-source software (FOSS). We make tools for developers, software that helps people get work done, and applications that anyone can use day to day.
+
+Red, green and blue are the primary colours of light: mixed together, they produce every colour in the spectrum. Our community works the same way. Contributors bring different skills and perspectives, and together they build more than any one of us could alone.
+
+## Our mission
+
+To build ambitious, high-quality free software that is useful to developers and non-developers alike, and to develop it in the open with everyone who wants to take part.
+
+We aim for the three-pointer: projects with lasting value, even when a safer, smaller shot would be easier.
+
+## Our principles
+
+- **Software freedom.** Everything we release can be used, studied, modified and shared by anyone, under an [OSI-approved](https://opensource.org/licenses) license.
+- **Open development.** Planning, discussion and code review happen in public on GitHub.
+- **Built for people.** We focus on real problems and value usability as much as features.
+- **Respect.** Everyone who takes part follows our [Code of Conduct](https://github.com/HimalayanNomads/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Projects
 
-| Repo | What it is |
-|---|---|
-| [**drawa**](https://github.com/HimalayanNomads/drawa) | The app: a Go server and a TypeScript canvas around your coding agents. |
-| [**drawa-website**](https://github.com/HimalayanNomads/drawa-website) | The site behind [drawa.cc](https://drawa.cc). |
-
-## Try it
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/HimalayanNomads/drawa/main/install.sh | sh
-cd ~/my/project && drawa
-```
+| Project | Description | License |
+|---|---|---|
+| [**Drawa**](https://github.com/HimalayanNomads/drawa) | Runs Claude Code, OpenCode and Codex side by side in your browser, with a live map of every file the agents read, edit and run. [drawa.cc](https://drawa.cc) | AGPL-3.0-only |
 
 ## Get involved
 
-Issues and pull requests are welcome. Start with [CONTRIBUTING.md](https://github.com/HimalayanNomads/drawa/blob/main/CONTRIBUTING.md), and please report security issues through a [private advisory](https://github.com/HimalayanNomads/drawa/security/advisories/new).
+Contributions of every kind are welcome, from first-time contributors and experienced maintainers alike.
+
+| How to help | Where to start |
+|---|---|
+| Report a bug or suggest a feature | Open an issue in the project's repository |
+| Contribute code or documentation | Read the [contributing guide](https://github.com/HimalayanNomads/.github/blob/main/CONTRIBUTING.md) and the project's own `CONTRIBUTING.md` |
+| Find a first task | Look for issues labeled `good first issue` or `help wanted` |
+| Test and give feedback | Try the latest release and tell us what works and what doesn't |
+| Spread the word | Star the projects you find useful and share them with others |
+
+## Community standards
+
+| Document | Purpose |
+|---|---|
+| [Code of Conduct](https://github.com/HimalayanNomads/.github/blob/main/CODE_OF_CONDUCT.md) | Expected behavior in all community spaces (Contributor Covenant 2.1) |
+| [Contributing guide](https://github.com/HimalayanNomads/.github/blob/main/CONTRIBUTING.md) | How to propose and submit changes |
+| [Security policy](https://github.com/HimalayanNomads/.github/blob/main/SECURITY.md) | How to report vulnerabilities privately |
+
+These documents apply to every repository in the organization unless a repository provides its own version.
+
+## Security
+
+Please do not report security vulnerabilities in public issues. Use a private security advisory on the affected repository, as described in our [security policy](https://github.com/HimalayanNomads/.github/blob/main/SECURITY.md).
+
+## License
+
+Each project is licensed individually; see the `LICENSE` file in its repository. All our projects use OSI-approved open-source licenses.
