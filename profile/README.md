@@ -14,9 +14,9 @@
 
 ## About us
 
-Himalayan Nomads is a community that builds free and open-source software (FOSS). We make tools for developers, software that helps people get work done, and applications that anyone can use day to day.
+Himalayan Nomads is an open community of people who build free and open-source software (FOSS). We create tools that help developers write better code, help people get more done, and make everyday tasks a little easier for everyone, whether they write code or not.
 
-Red, green and blue are the primary colours of light: mixed together, they produce every colour in the spectrum. Our community works the same way. Contributors bring different skills and perspectives, and together they build more than any one of us could alone.
+Think of us as the primary colours. Red, green and blue on their own are simple, but mixed together they make every colour in the spectrum. Each of our contributors brings something different, and together we paint the FOSS world with software none of us could build alone.
 
 ## Our mission
 
@@ -26,8 +26,8 @@ We aim for the three-pointer: projects with lasting value, even when a safer, sm
 
 ## Our principles
 
-- **Software freedom.** Everything we release can be used, studied, modified and shared by anyone, under an [OSI-approved](https://opensource.org/licenses) license.
-- **Open development.** Planning, discussion and code review happen in public on GitHub.
+- **Software freedom.** Everything we release is free and open source. Anyone can use it, study it, change it and share it.
+- **Open development.** We work in the open. Our code, issues and pull requests are public on GitHub.
 - **Built for people.** We focus on real problems and value usability as much as features.
 - **Respect.** Everyone who takes part follows our [Code of Conduct](https://github.com/HimalayanNomads/.github/blob/main/CODE_OF_CONDUCT.md).
 
@@ -65,4 +65,4 @@ Please do not report security vulnerabilities in public issues. Use a private se
 
 ## License
 
-Each project is licensed individually; see the `LICENSE` file in its repository. All our projects use OSI-approved open-source licenses.
+Each project has its own license. See the `LICENSE` file in each repository.
